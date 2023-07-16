@@ -275,4 +275,7 @@ main {
     header {
         padding: 50px;
     }
+    .footer{
+        width: 80%;
+    }
 }
