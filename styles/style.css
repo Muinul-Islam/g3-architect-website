@@ -202,8 +202,21 @@ main {
 
 .sponsor-img-container img {
     width: 165px;
+    margin-bottom: 130px;
 }
 
+.footer {
+    width: 70%;
+    height: 100px;
+    margin: auto;
+    margin-bottom: 100px;
+    text-align: center;
+    border-radius: 8px;
+    background: #FFF4E7;
+    color: #424242;
+    font-size: 1.5rem;
+    padding-top: 20px;
+}
 
 /* Responsive Styles Section */
 /* For Mobile Devices */
@@ -242,6 +255,10 @@ main {
 
     .facts-card-container {
         gap: 20px;
+    }
+    .footer {
+        width: 100%;
+        height: 150px;
     }
 }
 
